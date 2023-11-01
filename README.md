@@ -1,0 +1,2 @@
+# rind
+dokumentasi pribadi
